@@ -93,6 +93,11 @@ plt.show()
 <br>
 <br>
 <br>
+
+
+![2022-05-18](https://user-images.githubusercontent.com/75235477/169008785-7d81c47d-34ec-4973-bba4-1eeefa0e5509.png)
+
+
 <br>
 <br>
 <br>
@@ -102,6 +107,9 @@ plt.show()
 <br>
 <br>
 <br>
+
+![7-2](https://user-images.githubusercontent.com/75235477/169008460-fac082bf-12c0-4f2a-a594-5574bd3f31de.png)
+
 <br>
 <br>
 <br>
@@ -111,6 +119,9 @@ plt.show()
 <br>
 <br>
 <br>
+
+![7-3](https://user-images.githubusercontent.com/75235477/169008480-6961873f-a932-4ca7-bad8-b744426adeb0.png)
+
 <br>
 <br>
 <br>
